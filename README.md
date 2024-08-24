@@ -6,11 +6,8 @@ The **gopostgresql** package provides a simple and easy-to-use PostgreSQL reposi
 Installation
 ------------
 
-    go get github.com/lib/pq
+    go get github.com/ashkenazi1/gopostgresql
 
-Ensure that you import the necessary package for PostgreSQL in your project:
-
-    import _ "github.com/lib/pq"
 
 Usage
 -----
