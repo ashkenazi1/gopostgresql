@@ -1,5 +1,3 @@
-  gopostgresql Package
-
 gopostgresql
 ============
 
